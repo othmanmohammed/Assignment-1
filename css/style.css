@@ -1,0 +1,126 @@
+body{
+	background-color: #c3c3c3;
+	color: #000;
+	font-family:sans-serif;
+	line-height: 1.6em;
+	font-size: 16px;
+	margin: 0;
+
+}
+
+.button{
+	padding: 15px 250px;
+	background-color: #500360;
+	color: #fff;
+	border: none;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#mainheader{
+	background-color: #500360;
+	color: #fff;
+}
+
+#navbar{
+	background-color: #333;
+	color: #fff;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 25px;
+	padding-right: 60px;
+
+}
+
+.paraHead{
+	font-weight: bold;
+	text-align: center;
+}
+
+#cv{
+	padding: 15px;
+	border: 2px solid #500360 ;
+	margin: 15px;
+}
+
+#mainfooter{
+	background-color: #500360;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	padding: 15px;
+}
+
+#aboutus {
+	padding: 20px;
+	margin: 20px 0;
+	line-height: 30px;
+}
+
+#aboutus h1 {
+
+	font-size: 50px;
+	text-align: center;
+	color: #500360;
+	text-transform: uppercase;
+
+
+}
+
+#contactus {
+	padding: 20px;
+	margin: 20px 0;
+	line-height: 30px;
+}
+
+#contactus h1 {
+	
+	font-size: 50px;
+	text-align: center;
+	color: #500360;
+	text-transform: uppercase;
+
+}
+
+#contactus p{
+	text-align: center;
+}
+
+.myform{
+	padding: 20px;
+}
+
+.myform .formgroup {
+	padding-bottom: 15px;
+}
+
+.myform label {
+	display: block;
+}
+
+.myform input[type="text"] , [type="email"] , .myform textarea {
+	padding: 8px;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
